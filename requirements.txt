@@ -1,2 +1,5 @@
 keras>=2.0.0
 opencv-python>=4.1.0
+selenium
+pytest
+allure-pytest
